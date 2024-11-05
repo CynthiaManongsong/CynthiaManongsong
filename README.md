@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CynthiaManongsong
+- 👋 Hi, I’m @cyberyncha
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning frontend development
 - 💞️ I’m looking to collaborate on frontend development projects.
